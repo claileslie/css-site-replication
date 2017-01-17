@@ -93,6 +93,11 @@ h1 {
   top: 220px;
 }
 
+/*class to help fit 2nd paragraph in white box*/
+.help {
+  padding-right: 1%;
+}
+
 /*Store buttons*/
 .store {
   margin-top: 5%;
