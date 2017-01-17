@@ -91,5 +91,14 @@ h1 {
 }
 
 .foot {
-  display: inline-block;
+  /*display: inline-block;*/
+  margin-left: 14%;
+  margin-top: 5%;
+}
+
+.foot-link {
+  color: #1c5380;
+  font-weight: bold;
+  float: left;
+  margin-right: 2%;
 }
