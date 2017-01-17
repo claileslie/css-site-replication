@@ -21,6 +21,7 @@ body {
 main {
   overflow: hidden;
 }
+
 li {
   list-style: none;
 }
@@ -31,13 +32,14 @@ li {
   margin-left: 9%;
 }
 
+/*Instagram logo and name*/
 .brand {
   float: left;
   margin-top:12%;
   margin-left: 5.5%;
-
 }
 
+/*Home button*/
 .home {
   background-color: #4889BD;
   border: black 1px solid;
@@ -51,6 +53,7 @@ li {
   margin-right: 1%;
 }
 
+/*Log In*/
 .home span {
   position: absolute;
   left: 37%;
@@ -58,40 +61,45 @@ li {
   top:25%;
 }
 
+/*Log in image*/
 .home img {
   position: absolute;
   left: 5%;
   top: 23%;
 }
 
+/*Inner white box*/
 .frame {
   float: right;
   margin-top: 2%;
   z-index: -1;
 }
 
+/*Wrap of main header and text*/
 .description {
   position: relative;
 }
 
+/*Main header */
+h1 {
+  color: #1c5380;
+  padding-right: 49%;
+}
+
+/*Main text*/
 .pitch {
   position: absolute;
   left: 50%;
   top: 220px;
 }
 
+/*Store buttons*/
 .store {
   margin-top: 5%;
   margin-right: 4%;
 }
 
-h1 {
-  color: #1c5380;
-  padding-right: 49%;
-}
-
 .foot {
-  /*display: inline-block;*/
   margin-left: 14%;
   margin-top: 5%;
 }
